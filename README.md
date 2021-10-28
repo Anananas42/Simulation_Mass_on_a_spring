@@ -4,7 +4,7 @@ Analytical and numerical simulation of a mass on a spring with adjustable parame
 ## How to use
 Start the Unity application using "Zavazi na pruzine - fyzika.exe"
 
-- The movement of the mass is described by the differential equation above.
+- The movement of the mass is described by the differential equation: **mx''(t) = -b * x'(t) - k * x(t) + A * cos(f * t)**
 - **x(t)** is the position of the object in terms of time
 - **m** is the mass of the object
 - **x0** is the initial relative position to rest position
