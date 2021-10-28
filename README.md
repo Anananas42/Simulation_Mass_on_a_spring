@@ -22,7 +22,7 @@ With analytically solved cases, time can be reversed
 - Resonance tick box changes current frequency of the external force to the own frequency of the object on the spring
 - 'START' is used to start or stop the simulation.
 
-The simulation must be reset in order to apply given values!
+The 'RESET' button must be pressed in order to apply given values!
 
 - Simulation automatically uses an analytical method when no external force is applied (that is when A=0). Otherwise the numerical method is used. The analytical method is incorrect in overdamped case - see Disclaimer. Everything else works correctly.
 
