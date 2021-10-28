@@ -13,7 +13,10 @@ Start the Unity application using "Zavazi na pruzine - fyzika.exe"
 - **k** is the spring's stiffness
 - **A** is the amplitude of a periodic external force
 - **f** is the frequency of a periodic external force
-- With analytically solved cases, time can be reversed
+
+With analytically solved cases, time can be reversed
+
+![screenshot_mass_spring_sim](https://user-images.githubusercontent.com/43809508/139278711-18033059-6ba9-409e-9c20-4a469eca380f.png)
 
 - 'RESET' Resets the simulation by setting time to 0s.
 - Resonance tick box changes current frequency of the external force to the own frequency of the object on the spring
@@ -22,8 +25,6 @@ Start the Unity application using "Zavazi na pruzine - fyzika.exe"
 The simulation must be reset in order to apply given values!
 
 - Simulation automatically uses an analytical method when no external force is applied (that is when A=0). Otherwise the numerical method is used. The analytical method is incorrect in overdamped case - see Disclaimer. Everything else works correctly.
-
-![screenshot_mass_spring_sim](https://user-images.githubusercontent.com/43809508/139278711-18033059-6ba9-409e-9c20-4a469eca380f.png)
 
 ### Disclaimer
 The application isn't perfect, it was my second project in highschool, but it can still serve as a very useful experimentation and visualization tool.
