@@ -5,14 +5,14 @@ Analytical and numerical simulation of a mass on a spring with adjustable parame
 Start the Unity application using "Zavazi na pruzine - fyzika.exe"
 
 - The movement of the mass is described by the differential equation above.
-- x(t) is the position of the object in terms of time
-- m is the mass of the object
-- x0 is the initial relative position to rest position
-- v0 is the initial velocity relative to the spring
-- b is the drag coefficient
-- k is the spring's stiffness
-- A is the amplitude of a periodic external force
-- f is the frequency of a periodic external force
+- **x(t)** is the position of the object in terms of time
+- **m** is the mass of the object
+- **x0** is the initial relative position to rest position
+- **v0** is the initial velocity relative to the spring
+- **b** is the drag coefficient
+- **k** is the spring's stiffness
+- **A** is the amplitude of a periodic external force
+- **f** is the frequency of a periodic external force
 - With analytically solved cases, time can be reversed
 
 - 'RESET' Resets the simulation by setting time to 0s.
@@ -21,7 +21,7 @@ Start the Unity application using "Zavazi na pruzine - fyzika.exe"
 
 The simulation must be reset in order to apply given values!
 
-- Simulation uses automatically analytical method when no external force is applied (that is when A=0). Otherwise numerical method is used. The analytical method is incorrect in overdamped case - see Disclaimer. Everything else works correctly.
+- Simulation automatically uses an analytical method when no external force is applied (that is when A=0). Otherwise the numerical method is used. The analytical method is incorrect in overdamped case - see Disclaimer. Everything else works correctly.
 
 ![screenshot_mass_spring_sim](https://user-images.githubusercontent.com/43809508/139278711-18033059-6ba9-409e-9c20-4a469eca380f.png)
 
