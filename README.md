@@ -5,10 +5,10 @@ Analytical and numerical simulation of a mass on a spring with adjustable parame
 Start the Unity application using "Zavazi na pruzine - fyzika.exe"
 
 - The movement of the mass is described by the differential equation: **mx''(t) = -b * x'(t) - k * x(t) + A * cos(f * t)**
-- **x(t)** is the position of the object in terms of time
+- **x(t)** is object's position as a function of time
 - **m** is the mass of the object
-- **x0** is the initial relative position to rest position
-- **v0** is the initial velocity relative to the spring
+- **x0** is the initial position
+- **v0** is the initial velocity
 - **b** is the drag coefficient
 - **k** is the spring's stiffness
 - **A** is the amplitude of a periodic external force
