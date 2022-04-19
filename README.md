@@ -1,5 +1,5 @@
 # Simulation_Mass_on_a_spring (2019)
-Analytical and numerical simulation of a mass on a spring with adjustable parameters and nice visualization. Numerical simulation uses highly reliable Runge-Kutta method of 4th degree.
+Analytical and numerical simulation of a mass on a spring with adjustable parameters and nice visualization. Numerical simulation uses the Runge-Kutta method of 4th degree.
 
 ## How to use
 Start the Unity application using "Zavazi na pruzine - fyzika.exe"
